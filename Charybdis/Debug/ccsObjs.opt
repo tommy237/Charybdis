@@ -1,0 +1,6 @@
+"./tm4c123gh6pm_startup_ccs.obj"
+"./Sources/Displayer.obj"
+"./Sources/Threads.obj"
+"./Sources/main.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
